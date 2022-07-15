@@ -7,7 +7,7 @@ you can check the project on its [codepen](https://codepen.io/andresprza/full/LY
 This project is **finished** and i have no plan on updating it at the moment.
 
 ### Preview
-![image](./RandomQuoteMachine_ScreenShot.png)
+![image](./MarkdownPreviewer_ScreenShot.png)
 
 ### Sample Markdown
 You can use the following markdown to test the app easily:
