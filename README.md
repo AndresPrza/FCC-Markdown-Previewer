@@ -11,7 +11,7 @@ This project is **finished** and i have no plan on updating it at the moment.
 
 ### Sample Markdown
 You can use the following markdown to test the app easily:
-```
+~~~
 # Header
 
 ## Sub header
@@ -20,7 +20,7 @@ You can use the following markdown to test the app easily:
 code:
 `<div></div>`
 
-`` <- you have to manually write the 3rd backtick here for the codeblock markdown to work
+```
 Codeblock:
 
 const abba = (a) => {
@@ -28,7 +28,7 @@ function(b){
 return b + a;
 }
 }
-`` <- you have to manually write the 3rd backtick here for the codeblock markdown to work
+```
 
 You want a list?
 1. Here's a list.
@@ -42,4 +42,4 @@ You want a list?
 **Bold Text**
 
 ![alt text](https://c.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif)
-```
+~~~
