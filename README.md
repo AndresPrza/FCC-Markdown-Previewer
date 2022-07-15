@@ -9,7 +9,7 @@ This project is **finished** and i have no plan on updating it at the moment.
 ### Preview
 ![image](./MarkdownPreviewer_ScreenShot.png)
 
-### Sample Markdown
+### Test Markdown
 You can use the following markdown to test the app easily:
 ~~~
 # Header
